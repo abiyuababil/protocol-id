@@ -251,7 +251,7 @@ const AboutUs = () => {
                             {/* Profile Card 1 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Alexander Kolaai Narwadan" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDOjmAR3G3Rr9h-lZIdIkJla25v4v0Qj4GlySBCvHibfnMCrjk_xc7wL9bfLwhr6k7T_EcdXDj50icsKhqJY-YC4zwTgd6LIZ-KbNfYkxb518Xc1Y4VHSxPEhuOq2y2PNQ2Lr6SPd92icz0uNBhkJ60bd1C_zPhc_Pop3yVjxv5w2KuWD8EqTeNEAyjx0XE3wPN4hm7yZm9CKlYzMWENDgcCG7zd3WCBoDkKYQrPr0q9TQs-qodgS3VjAXG4gjGMhVk5l8tqYTOGqsQ" />
+                                    <img alt="Portrait of Alexander Kolaai Narwadan" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Alexander Kolaai Narwadan</h3>
@@ -270,7 +270,7 @@ const AboutUs = () => {
                             {/* Profile Card 2 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Suhardi Soud" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDRacgCsGxuuseE-OZPKbbdbx5TPsfl3l_bVQr6nLAMOMXHbSD_CvdjGbaI1VQiNaJ8Kd0Lqdwt8MVSDoTDV9F9-prXXxNToR2V9O7p-GdKRkOxZImi7Lgm1nHmGfqooPP5TeOS8F7SH6VOQKkCLfGjNTVhNWNIuOJX0rxLSvcUFW85nLLlUGXBzFynfxGLHwzgzKQ6t6ecoQdhUB45zFOq8sB2OFzeHdk0i4OzCacd3cw8vRMt0V-L3xe4kJTYoWXft0Q09QltwklS" />
+                                    <img alt="Portrait of Suhardi Soud" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Suhardi Soud</h3>
@@ -289,7 +289,7 @@ const AboutUs = () => {
                             {/* Profile Card 3 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Winsi Kuhu" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB_mefhjb1bU5NVTFJznW2gRZSBuGaAvVVQc-O4ZlsTBNLOLuvVnftHmBDU_daaAeF-KjBspJ2ftKWqblkRD-1ZDS3tbF8LFIkB2yIuupYL8QAgSAvFk9qvmSEpIgFCWr4fF6S45yME2OYA1X5lZHiZxmYnRmDY0-OLPiEFZ5BJJAq_hlw8q810XRKN1k0H5uMM9W7wFY6LRAVnaUEIRJzVLI6tSKGCBpEbMfRljZTuciP3Pad8AZuCR7sn_mIlSm36nJBgPESDPu2z" />
+                                    <img alt="Portrait of Winsi Kuhu" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Winsi Kuhu</h3>
