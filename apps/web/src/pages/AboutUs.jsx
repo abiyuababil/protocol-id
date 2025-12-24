@@ -250,8 +250,8 @@ const AboutUs = () => {
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
                             {/* Profile Card 1 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
-                                <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Alexander Kolaai Narwadan" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000001?d=mp&f=y&s=400" />
+                                <div className="h-64 overflow-hidden bg-gradient-to-br from-primary/20 to-primary/40 dark:from-primary/30 dark:to-primary/50 relative flex items-center justify-center">
+                                    <span className="material-symbols-outlined text-primary/60 dark:text-primary/80" style={{ fontSize: '120px' }}>person</span>
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Alexander Kolaai Narwadan</h3>
@@ -269,8 +269,8 @@ const AboutUs = () => {
                             </div>
                             {/* Profile Card 2 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
-                                <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Suhardi Soud" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000002?d=mp&f=y&s=400" />
+                                <div className="h-64 overflow-hidden bg-gradient-to-br from-green-500/20 to-green-600/40 dark:from-green-500/30 dark:to-green-600/50 relative flex items-center justify-center">
+                                    <span className="material-symbols-outlined text-green-600/60 dark:text-green-500/80" style={{ fontSize: '120px' }}>person</span>
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Suhardi Soud</h3>
@@ -288,8 +288,8 @@ const AboutUs = () => {
                             </div>
                             {/* Profile Card 3 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
-                                <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Winsi Kuhu" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000003?d=mp&f=y&s=400" />
+                                <div className="h-64 overflow-hidden bg-gradient-to-br from-purple-500/20 to-purple-600/40 dark:from-purple-500/30 dark:to-purple-600/50 relative flex items-center justify-center">
+                                    <span className="material-symbols-outlined text-purple-600/60 dark:text-purple-500/80" style={{ fontSize: '120px' }}>person</span>
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Winsi Kuhu</h3>
