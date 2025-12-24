@@ -251,7 +251,7 @@ const AboutUs = () => {
                             {/* Profile Card 1 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Alexander Kolaai Narwadan" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" />
+                                    <img alt="Portrait of Alexander Kolaai Narwadan" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000001?d=mp&f=y&s=400" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Alexander Kolaai Narwadan</h3>
@@ -270,7 +270,7 @@ const AboutUs = () => {
                             {/* Profile Card 2 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Suhardi Soud" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face" />
+                                    <img alt="Portrait of Suhardi Soud" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000002?d=mp&f=y&s=400" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Suhardi Soud</h3>
@@ -289,7 +289,7 @@ const AboutUs = () => {
                             {/* Profile Card 3 */}
                             <div className="bg-white dark:bg-[#1a202c] rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group">
                                 <div className="h-64 overflow-hidden bg-gray-200 relative">
-                                    <img alt="Portrait of Winsi Kuhu" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face" />
+                                    <img alt="Portrait of Winsi Kuhu" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="https://www.gravatar.com/avatar/00000000000000000000000000000003?d=mp&f=y&s=400" />
                                     <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-black/80 to-transparent"></div>
                                     <div className="absolute bottom-4 left-4 text-white">
                                         <h3 className="font-bold text-xl">Winsi Kuhu</h3>
